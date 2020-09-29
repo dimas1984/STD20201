@@ -1,0 +1,17 @@
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+/* style untuk class menggunakan titik*/
+.klas {
+    display: block;
+    margin: 20 auto;
+    color: red;
+}
+
+/* style untuk id menggunakan tanda pagar*/
+#button-go,
+#button-back {
+    border: solid 10px black;
+}

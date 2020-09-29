@@ -1,0 +1,5 @@
+Buatlah algoritma dan flowchart:
+Menghitung Luas Lingkaran dan menampilkan hasilnya
+Mengecek bilangan di antara 2 bilangan masukan, apakah sama ataukah lebih besar salah satunya, dan tampilkan hasilnya
+
+

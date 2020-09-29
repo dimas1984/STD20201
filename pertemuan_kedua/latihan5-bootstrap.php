@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap\css\bootstrap.min.css">
+    <title>web menggunakan bootstrap</title>
+</head>
+
+<body>
+    <header>
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <div class="row">
+                <div class="col">
+                <h1>selamat datang di web saya</h1>
+                    <div class="lead">saya sedang belajar bootstrap</div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+
+</html>
